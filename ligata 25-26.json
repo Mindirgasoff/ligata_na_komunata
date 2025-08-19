@@ -1254,12 +1254,12 @@
       "awayGoals": 6.5
     },
     "8": {
-      "homeGoals": "",
-      "awayGoals": ""
+      "homeGoals": "0.5",
+      "awayGoals": "0.5"
     },
     "9": {
-      "homeGoals": "",
-      "awayGoals": ""
+      "homeGoals": "0.5",
+      "awayGoals": "0.5"
     }
   },
   "prizes": {

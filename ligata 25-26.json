@@ -1,0 +1,1272 @@
+{
+  "numTeams": 16,
+  "teams": [
+    "ralin4y",
+    "Pavoi",
+    "Batman",
+    "4i4o Vasko",
+    "Sheikh",
+    "bg_pop",
+    "Chaprazov",
+    "Doki",
+    "MyTa",
+    "gruckiq",
+    "Tripaki",
+    "GRaFa",
+    "Normal1",
+    "obezumeliq",
+    "Berba",
+    "Adidudu"
+  ],
+  "matches": [
+    {
+      "round": 1,
+      "home": "ralin4y",
+      "away": "Adidudu"
+    },
+    {
+      "round": 1,
+      "home": "Pavoi",
+      "away": "Berba"
+    },
+    {
+      "round": 1,
+      "home": "Batman",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 1,
+      "home": "4i4o Vasko",
+      "away": "Normal1"
+    },
+    {
+      "round": 1,
+      "home": "Sheikh",
+      "away": "GRaFa"
+    },
+    {
+      "round": 1,
+      "home": "bg_pop",
+      "away": "Tripaki"
+    },
+    {
+      "round": 1,
+      "home": "Chaprazov",
+      "away": "gruckiq"
+    },
+    {
+      "round": 1,
+      "home": "Doki",
+      "away": "MyTa"
+    },
+    {
+      "round": 2,
+      "home": "Adidudu",
+      "away": "MyTa"
+    },
+    {
+      "round": 2,
+      "home": "gruckiq",
+      "away": "Doki"
+    },
+    {
+      "round": 2,
+      "home": "Tripaki",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 2,
+      "home": "GRaFa",
+      "away": "bg_pop"
+    },
+    {
+      "round": 2,
+      "home": "Normal1",
+      "away": "Sheikh"
+    },
+    {
+      "round": 2,
+      "home": "obezumeliq",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 2,
+      "home": "Berba",
+      "away": "Batman"
+    },
+    {
+      "round": 2,
+      "home": "ralin4y",
+      "away": "Pavoi"
+    },
+    {
+      "round": 3,
+      "home": "Pavoi",
+      "away": "Adidudu"
+    },
+    {
+      "round": 3,
+      "home": "Batman",
+      "away": "ralin4y"
+    },
+    {
+      "round": 3,
+      "home": "4i4o Vasko",
+      "away": "Berba"
+    },
+    {
+      "round": 3,
+      "home": "Sheikh",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 3,
+      "home": "bg_pop",
+      "away": "Normal1"
+    },
+    {
+      "round": 3,
+      "home": "Chaprazov",
+      "away": "GRaFa"
+    },
+    {
+      "round": 3,
+      "home": "Doki",
+      "away": "Tripaki"
+    },
+    {
+      "round": 3,
+      "home": "MyTa",
+      "away": "gruckiq"
+    },
+    {
+      "round": 4,
+      "home": "Adidudu",
+      "away": "gruckiq"
+    },
+    {
+      "round": 4,
+      "home": "Tripaki",
+      "away": "MyTa"
+    },
+    {
+      "round": 4,
+      "home": "GRaFa",
+      "away": "Doki"
+    },
+    {
+      "round": 4,
+      "home": "Normal1",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 4,
+      "home": "obezumeliq",
+      "away": "bg_pop"
+    },
+    {
+      "round": 4,
+      "home": "Berba",
+      "away": "Sheikh"
+    },
+    {
+      "round": 4,
+      "home": "ralin4y",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 4,
+      "home": "Pavoi",
+      "away": "Batman"
+    },
+    {
+      "round": 5,
+      "home": "Batman",
+      "away": "Adidudu"
+    },
+    {
+      "round": 5,
+      "home": "4i4o Vasko",
+      "away": "Pavoi"
+    },
+    {
+      "round": 5,
+      "home": "Sheikh",
+      "away": "ralin4y"
+    },
+    {
+      "round": 5,
+      "home": "bg_pop",
+      "away": "Berba"
+    },
+    {
+      "round": 5,
+      "home": "Chaprazov",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 5,
+      "home": "Doki",
+      "away": "Normal1"
+    },
+    {
+      "round": 5,
+      "home": "MyTa",
+      "away": "GRaFa"
+    },
+    {
+      "round": 5,
+      "home": "gruckiq",
+      "away": "Tripaki"
+    },
+    {
+      "round": 6,
+      "home": "Adidudu",
+      "away": "Tripaki"
+    },
+    {
+      "round": 6,
+      "home": "GRaFa",
+      "away": "gruckiq"
+    },
+    {
+      "round": 6,
+      "home": "Normal1",
+      "away": "MyTa"
+    },
+    {
+      "round": 6,
+      "home": "obezumeliq",
+      "away": "Doki"
+    },
+    {
+      "round": 6,
+      "home": "Berba",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 6,
+      "home": "ralin4y",
+      "away": "bg_pop"
+    },
+    {
+      "round": 6,
+      "home": "Pavoi",
+      "away": "Sheikh"
+    },
+    {
+      "round": 6,
+      "home": "Batman",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 7,
+      "home": "4i4o Vasko",
+      "away": "Adidudu"
+    },
+    {
+      "round": 7,
+      "home": "Sheikh",
+      "away": "Batman"
+    },
+    {
+      "round": 7,
+      "home": "bg_pop",
+      "away": "Pavoi"
+    },
+    {
+      "round": 7,
+      "home": "Chaprazov",
+      "away": "ralin4y"
+    },
+    {
+      "round": 7,
+      "home": "Doki",
+      "away": "Berba"
+    },
+    {
+      "round": 7,
+      "home": "MyTa",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 7,
+      "home": "gruckiq",
+      "away": "Normal1"
+    },
+    {
+      "round": 7,
+      "home": "Tripaki",
+      "away": "GRaFa"
+    },
+    {
+      "round": 8,
+      "home": "Adidudu",
+      "away": "GRaFa"
+    },
+    {
+      "round": 8,
+      "home": "Normal1",
+      "away": "Tripaki"
+    },
+    {
+      "round": 8,
+      "home": "obezumeliq",
+      "away": "gruckiq"
+    },
+    {
+      "round": 8,
+      "home": "Berba",
+      "away": "MyTa"
+    },
+    {
+      "round": 8,
+      "home": "ralin4y",
+      "away": "Doki"
+    },
+    {
+      "round": 8,
+      "home": "Pavoi",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 8,
+      "home": "Batman",
+      "away": "bg_pop"
+    },
+    {
+      "round": 8,
+      "home": "4i4o Vasko",
+      "away": "Sheikh"
+    },
+    {
+      "round": 9,
+      "home": "Sheikh",
+      "away": "Adidudu"
+    },
+    {
+      "round": 9,
+      "home": "bg_pop",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 9,
+      "home": "Chaprazov",
+      "away": "Batman"
+    },
+    {
+      "round": 9,
+      "home": "Doki",
+      "away": "Pavoi"
+    },
+    {
+      "round": 9,
+      "home": "MyTa",
+      "away": "ralin4y"
+    },
+    {
+      "round": 9,
+      "home": "gruckiq",
+      "away": "Berba"
+    },
+    {
+      "round": 9,
+      "home": "Tripaki",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 9,
+      "home": "GRaFa",
+      "away": "Normal1"
+    },
+    {
+      "round": 10,
+      "home": "Adidudu",
+      "away": "Normal1"
+    },
+    {
+      "round": 10,
+      "home": "obezumeliq",
+      "away": "GRaFa"
+    },
+    {
+      "round": 10,
+      "home": "Berba",
+      "away": "Tripaki"
+    },
+    {
+      "round": 10,
+      "home": "ralin4y",
+      "away": "gruckiq"
+    },
+    {
+      "round": 10,
+      "home": "Pavoi",
+      "away": "MyTa"
+    },
+    {
+      "round": 10,
+      "home": "Batman",
+      "away": "Doki"
+    },
+    {
+      "round": 10,
+      "home": "4i4o Vasko",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 10,
+      "home": "Sheikh",
+      "away": "bg_pop"
+    },
+    {
+      "round": 11,
+      "home": "bg_pop",
+      "away": "Adidudu"
+    },
+    {
+      "round": 11,
+      "home": "Chaprazov",
+      "away": "Sheikh"
+    },
+    {
+      "round": 11,
+      "home": "Doki",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 11,
+      "home": "MyTa",
+      "away": "Batman"
+    },
+    {
+      "round": 11,
+      "home": "gruckiq",
+      "away": "Pavoi"
+    },
+    {
+      "round": 11,
+      "home": "Tripaki",
+      "away": "ralin4y"
+    },
+    {
+      "round": 11,
+      "home": "GRaFa",
+      "away": "Berba"
+    },
+    {
+      "round": 11,
+      "home": "Normal1",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 12,
+      "home": "Adidudu",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 12,
+      "home": "Berba",
+      "away": "Normal1"
+    },
+    {
+      "round": 12,
+      "home": "ralin4y",
+      "away": "GRaFa"
+    },
+    {
+      "round": 12,
+      "home": "Pavoi",
+      "away": "Tripaki"
+    },
+    {
+      "round": 12,
+      "home": "Batman",
+      "away": "gruckiq"
+    },
+    {
+      "round": 12,
+      "home": "4i4o Vasko",
+      "away": "MyTa"
+    },
+    {
+      "round": 12,
+      "home": "Sheikh",
+      "away": "Doki"
+    },
+    {
+      "round": 12,
+      "home": "bg_pop",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 13,
+      "home": "Chaprazov",
+      "away": "Adidudu"
+    },
+    {
+      "round": 13,
+      "home": "Doki",
+      "away": "bg_pop"
+    },
+    {
+      "round": 13,
+      "home": "MyTa",
+      "away": "Sheikh"
+    },
+    {
+      "round": 13,
+      "home": "gruckiq",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 13,
+      "home": "Tripaki",
+      "away": "Batman"
+    },
+    {
+      "round": 13,
+      "home": "GRaFa",
+      "away": "Pavoi"
+    },
+    {
+      "round": 13,
+      "home": "Normal1",
+      "away": "ralin4y"
+    },
+    {
+      "round": 13,
+      "home": "obezumeliq",
+      "away": "Berba"
+    },
+    {
+      "round": 14,
+      "home": "Adidudu",
+      "away": "Berba"
+    },
+    {
+      "round": 14,
+      "home": "ralin4y",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 14,
+      "home": "Pavoi",
+      "away": "Normal1"
+    },
+    {
+      "round": 14,
+      "home": "Batman",
+      "away": "GRaFa"
+    },
+    {
+      "round": 14,
+      "home": "4i4o Vasko",
+      "away": "Tripaki"
+    },
+    {
+      "round": 14,
+      "home": "Sheikh",
+      "away": "gruckiq"
+    },
+    {
+      "round": 14,
+      "home": "bg_pop",
+      "away": "MyTa"
+    },
+    {
+      "round": 14,
+      "home": "Chaprazov",
+      "away": "Doki"
+    },
+    {
+      "round": 15,
+      "home": "Doki",
+      "away": "Adidudu"
+    },
+    {
+      "round": 15,
+      "home": "MyTa",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 15,
+      "home": "gruckiq",
+      "away": "bg_pop"
+    },
+    {
+      "round": 15,
+      "home": "Tripaki",
+      "away": "Sheikh"
+    },
+    {
+      "round": 15,
+      "home": "GRaFa",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 15,
+      "home": "Normal1",
+      "away": "Batman"
+    },
+    {
+      "round": 15,
+      "home": "obezumeliq",
+      "away": "Pavoi"
+    },
+    {
+      "round": 15,
+      "home": "Berba",
+      "away": "ralin4y"
+    },
+    {
+      "round": 16,
+      "home": "Adidudu",
+      "away": "ralin4y"
+    },
+    {
+      "round": 16,
+      "home": "Berba",
+      "away": "Pavoi"
+    },
+    {
+      "round": 16,
+      "home": "obezumeliq",
+      "away": "Batman"
+    },
+    {
+      "round": 16,
+      "home": "Normal1",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 16,
+      "home": "GRaFa",
+      "away": "Sheikh"
+    },
+    {
+      "round": 16,
+      "home": "Tripaki",
+      "away": "bg_pop"
+    },
+    {
+      "round": 16,
+      "home": "gruckiq",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 16,
+      "home": "MyTa",
+      "away": "Doki"
+    },
+    {
+      "round": 17,
+      "home": "MyTa",
+      "away": "Adidudu"
+    },
+    {
+      "round": 17,
+      "home": "Doki",
+      "away": "gruckiq"
+    },
+    {
+      "round": 17,
+      "home": "Chaprazov",
+      "away": "Tripaki"
+    },
+    {
+      "round": 17,
+      "home": "bg_pop",
+      "away": "GRaFa"
+    },
+    {
+      "round": 17,
+      "home": "Sheikh",
+      "away": "Normal1"
+    },
+    {
+      "round": 17,
+      "home": "4i4o Vasko",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 17,
+      "home": "Batman",
+      "away": "Berba"
+    },
+    {
+      "round": 17,
+      "home": "Pavoi",
+      "away": "ralin4y"
+    },
+    {
+      "round": 18,
+      "home": "Pavoi",
+      "away": "Adidudu"
+    },
+    {
+      "round": 18,
+      "home": "ralin4y",
+      "away": "Batman"
+    },
+    {
+      "round": 18,
+      "home": "Berba",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 18,
+      "home": "obezumeliq",
+      "away": "Sheikh"
+    },
+    {
+      "round": 18,
+      "home": "Normal1",
+      "away": "bg_pop"
+    },
+    {
+      "round": 18,
+      "home": "GRaFa",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 18,
+      "home": "Tripaki",
+      "away": "Doki"
+    },
+    {
+      "round": 18,
+      "home": "gruckiq",
+      "away": "MyTa"
+    },
+    {
+      "round": 19,
+      "home": "gruckiq",
+      "away": "Adidudu"
+    },
+    {
+      "round": 19,
+      "home": "MyTa",
+      "away": "Tripaki"
+    },
+    {
+      "round": 19,
+      "home": "Doki",
+      "away": "GRaFa"
+    },
+    {
+      "round": 19,
+      "home": "Chaprazov",
+      "away": "Normal1"
+    },
+    {
+      "round": 19,
+      "home": "bg_pop",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 19,
+      "home": "Sheikh",
+      "away": "Berba"
+    },
+    {
+      "round": 19,
+      "home": "4i4o Vasko",
+      "away": "ralin4y"
+    },
+    {
+      "round": 19,
+      "home": "Batman",
+      "away": "Pavoi"
+    },
+    {
+      "round": 20,
+      "home": "Batman",
+      "away": "Adidudu"
+    },
+    {
+      "round": 20,
+      "home": "Pavoi",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 20,
+      "home": "ralin4y",
+      "away": "Sheikh"
+    },
+    {
+      "round": 20,
+      "home": "Berba",
+      "away": "bg_pop"
+    },
+    {
+      "round": 20,
+      "home": "obezumeliq",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 20,
+      "home": "Normal1",
+      "away": "Doki"
+    },
+    {
+      "round": 20,
+      "home": "GRaFa",
+      "away": "MyTa"
+    },
+    {
+      "round": 20,
+      "home": "Tripaki",
+      "away": "gruckiq"
+    },
+    {
+      "round": 21,
+      "home": "Tripaki",
+      "away": "Adidudu"
+    },
+    {
+      "round": 21,
+      "home": "gruckiq",
+      "away": "GRaFa"
+    },
+    {
+      "round": 21,
+      "home": "MyTa",
+      "away": "Normal1"
+    },
+    {
+      "round": 21,
+      "home": "Doki",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 21,
+      "home": "Chaprazov",
+      "away": "Berba"
+    },
+    {
+      "round": 21,
+      "home": "bg_pop",
+      "away": "ralin4y"
+    },
+    {
+      "round": 21,
+      "home": "Sheikh",
+      "away": "Pavoi"
+    },
+    {
+      "round": 21,
+      "home": "4i4o Vasko",
+      "away": "Batman"
+    },
+    {
+      "round": 22,
+      "home": "4i4o Vasko",
+      "away": "Adidudu"
+    },
+    {
+      "round": 22,
+      "home": "Batman",
+      "away": "Sheikh"
+    },
+    {
+      "round": 22,
+      "home": "Pavoi",
+      "away": "bg_pop"
+    },
+    {
+      "round": 22,
+      "home": "ralin4y",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 22,
+      "home": "Berba",
+      "away": "Doki"
+    },
+    {
+      "round": 22,
+      "home": "obezumeliq",
+      "away": "MyTa"
+    },
+    {
+      "round": 22,
+      "home": "Normal1",
+      "away": "gruckiq"
+    },
+    {
+      "round": 22,
+      "home": "GRaFa",
+      "away": "Tripaki"
+    },
+    {
+      "round": 23,
+      "home": "GRaFa",
+      "away": "Adidudu"
+    },
+    {
+      "round": 23,
+      "home": "Tripaki",
+      "away": "Normal1"
+    },
+    {
+      "round": 23,
+      "home": "gruckiq",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 23,
+      "home": "MyTa",
+      "away": "Berba"
+    },
+    {
+      "round": 23,
+      "home": "Doki",
+      "away": "ralin4y"
+    },
+    {
+      "round": 23,
+      "home": "Chaprazov",
+      "away": "Pavoi"
+    },
+    {
+      "round": 23,
+      "home": "bg_pop",
+      "away": "Batman"
+    },
+    {
+      "round": 23,
+      "home": "Sheikh",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 24,
+      "home": "Sheikh",
+      "away": "Adidudu"
+    },
+    {
+      "round": 24,
+      "home": "4i4o Vasko",
+      "away": "bg_pop"
+    },
+    {
+      "round": 24,
+      "home": "Batman",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 24,
+      "home": "Pavoi",
+      "away": "Doki"
+    },
+    {
+      "round": 24,
+      "home": "ralin4y",
+      "away": "MyTa"
+    },
+    {
+      "round": 24,
+      "home": "Berba",
+      "away": "gruckiq"
+    },
+    {
+      "round": 24,
+      "home": "obezumeliq",
+      "away": "Tripaki"
+    },
+    {
+      "round": 24,
+      "home": "Normal1",
+      "away": "GRaFa"
+    },
+    {
+      "round": 25,
+      "home": "Normal1",
+      "away": "Adidudu"
+    },
+    {
+      "round": 25,
+      "home": "GRaFa",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 25,
+      "home": "Tripaki",
+      "away": "Berba"
+    },
+    {
+      "round": 25,
+      "home": "gruckiq",
+      "away": "ralin4y"
+    },
+    {
+      "round": 25,
+      "home": "MyTa",
+      "away": "Pavoi"
+    },
+    {
+      "round": 25,
+      "home": "Doki",
+      "away": "Batman"
+    },
+    {
+      "round": 25,
+      "home": "Chaprazov",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 25,
+      "home": "bg_pop",
+      "away": "Sheikh"
+    },
+    {
+      "round": 26,
+      "home": "bg_pop",
+      "away": "Adidudu"
+    },
+    {
+      "round": 26,
+      "home": "Sheikh",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 26,
+      "home": "4i4o Vasko",
+      "away": "Doki"
+    },
+    {
+      "round": 26,
+      "home": "Batman",
+      "away": "MyTa"
+    },
+    {
+      "round": 26,
+      "home": "Pavoi",
+      "away": "gruckiq"
+    },
+    {
+      "round": 26,
+      "home": "ralin4y",
+      "away": "Tripaki"
+    },
+    {
+      "round": 26,
+      "home": "Berba",
+      "away": "GRaFa"
+    },
+    {
+      "round": 26,
+      "home": "obezumeliq",
+      "away": "Normal1"
+    },
+    {
+      "round": 27,
+      "home": "obezumeliq",
+      "away": "Adidudu"
+    },
+    {
+      "round": 27,
+      "home": "Normal1",
+      "away": "Berba"
+    },
+    {
+      "round": 27,
+      "home": "GRaFa",
+      "away": "ralin4y"
+    },
+    {
+      "round": 27,
+      "home": "Tripaki",
+      "away": "Pavoi"
+    },
+    {
+      "round": 27,
+      "home": "gruckiq",
+      "away": "Batman"
+    },
+    {
+      "round": 27,
+      "home": "MyTa",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 27,
+      "home": "Doki",
+      "away": "Sheikh"
+    },
+    {
+      "round": 27,
+      "home": "Chaprazov",
+      "away": "bg_pop"
+    },
+    {
+      "round": 28,
+      "home": "Chaprazov",
+      "away": "Adidudu"
+    },
+    {
+      "round": 28,
+      "home": "bg_pop",
+      "away": "Doki"
+    },
+    {
+      "round": 28,
+      "home": "Sheikh",
+      "away": "MyTa"
+    },
+    {
+      "round": 28,
+      "home": "4i4o Vasko",
+      "away": "gruckiq"
+    },
+    {
+      "round": 28,
+      "home": "Batman",
+      "away": "Tripaki"
+    },
+    {
+      "round": 28,
+      "home": "Pavoi",
+      "away": "GRaFa"
+    },
+    {
+      "round": 28,
+      "home": "ralin4y",
+      "away": "Normal1"
+    },
+    {
+      "round": 28,
+      "home": "Berba",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 29,
+      "home": "Berba",
+      "away": "Adidudu"
+    },
+    {
+      "round": 29,
+      "home": "obezumeliq",
+      "away": "ralin4y"
+    },
+    {
+      "round": 29,
+      "home": "Normal1",
+      "away": "Pavoi"
+    },
+    {
+      "round": 29,
+      "home": "GRaFa",
+      "away": "Batman"
+    },
+    {
+      "round": 29,
+      "home": "Tripaki",
+      "away": "4i4o Vasko"
+    },
+    {
+      "round": 29,
+      "home": "gruckiq",
+      "away": "Sheikh"
+    },
+    {
+      "round": 29,
+      "home": "MyTa",
+      "away": "bg_pop"
+    },
+    {
+      "round": 29,
+      "home": "Doki",
+      "away": "Chaprazov"
+    },
+    {
+      "round": 30,
+      "home": "Adidudu",
+      "away": "Doki"
+    },
+    {
+      "round": 30,
+      "home": "Chaprazov",
+      "away": "MyTa"
+    },
+    {
+      "round": 30,
+      "home": "bg_pop",
+      "away": "gruckiq"
+    },
+    {
+      "round": 30,
+      "home": "Sheikh",
+      "away": "Tripaki"
+    },
+    {
+      "round": 30,
+      "home": "4i4o Vasko",
+      "away": "GRaFa"
+    },
+    {
+      "round": 30,
+      "home": "Batman",
+      "away": "Normal1"
+    },
+    {
+      "round": 30,
+      "home": "Pavoi",
+      "away": "obezumeliq"
+    },
+    {
+      "round": 30,
+      "home": "ralin4y",
+      "away": "Berba"
+    }
+  ],
+  "results": {
+    "0": {
+      "homeGoals": 8.5,
+      "awayGoals": "11.0"
+    },
+    "1": {
+      "awayGoals": "5.0",
+      "homeGoals": 8.5
+    },
+    "2": {
+      "homeGoals": "6.0",
+      "awayGoals": 9.5
+    },
+    "3": {
+      "homeGoals": "5.0",
+      "awayGoals": 9.5
+    },
+    "4": {
+      "homeGoals": "12.0",
+      "awayGoals": "14.0"
+    },
+    "5": {
+      "homeGoals": "9.0",
+      "awayGoals": 7.5
+    },
+    "6": {
+      "homeGoals": "12.0",
+      "awayGoals": 8.5
+    },
+    "7": {
+      "homeGoals": "10.0",
+      "awayGoals": 6.5
+    },
+    "8": {
+      "homeGoals": "",
+      "awayGoals": ""
+    },
+    "9": {
+      "homeGoals": "",
+      "awayGoals": ""
+    }
+  },
+  "prizes": {
+    "1": "210",
+    "2": "160",
+    "3": "110",
+    "4": "WILDCARD следващ сезон",
+    "13-16": "15 лв."
+  }
+}

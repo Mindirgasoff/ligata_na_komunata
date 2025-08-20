@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ЛИГАТА НА КОМУНАТА 25-26</title>
+  <title>ЛИГАТА НА КОМУНАТА 2025 - Преглед</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     /* Fallback стилове за таблици */
@@ -44,7 +44,7 @@
 </head>
 <body class="bg-gray-100 font-sans">
   <div class="container mx-auto p-4">
-    <h1 class="text-3xl font-bold text-center mb-4">ЛИГАТА НА КОМУНАТА 25-26</h1>
+    <h1 class="text-3xl font-bold text-center mb-4">ЛИГАТА НА КОМУНАТА 2025 - Преглед</h1>
 
     <!-- Класиране -->
     <div id="standings" class="mb-6">
@@ -93,7 +93,7 @@
   </div>
 
   <script>
-    const JSON_URL = '/data/ligata%2025-26.json?v=' + Date.now();
+    const JSON_URL = '/ligata%2025-26.json?v=' + Date.now(); // Актуализиран път за корен
     let teams = Array(16).fill().map((_, i) => `Участник ${i + 1}`);
     let matches = [];
     let results = {};

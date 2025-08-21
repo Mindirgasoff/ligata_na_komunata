@@ -6,7 +6,6 @@
   <title>ЛИГАТА НА КОМУНАТА 2025 - Преглед</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    /* Fallback стилове за таблици */
     table {
       width: 100%;
       border-collapse: collapse;
@@ -93,7 +92,7 @@
   </div>
 
   <script>
-    const JSON_URL = '/ligata-25-26.json?v=' + Date.now(); // Актуализиран път за корен
+    const JSON_URL = '/ligata-25-26.json?v=' + Date.now(); // Актуализирано за новото име
     let teams = Array(16).fill().map((_, i) => `Участник ${i + 1}`);
     let matches = [];
     let results = {};
@@ -106,6 +105,7 @@
     };
     const numTeams = 16;
     let isShortView = true;
+    let isDataLoaded = false;
 
     function formatNumber(num) {
       if (num === '') return '-';
@@ -142,7 +142,7 @@
       while (form.length < 5) {
         form.push('-');
       }
-      return form.reverse(); // Обръщане на реда: най-актуален мач вляво, най-стар вдясно
+      return form.reverse();
     }
 
     function getHeadToHeadPoints(teamA, teamB) {
@@ -462,7 +462,8 @@
         document.getElementById('errorMessage').innerText = 'Грешка: Няма зададен JSON_URL.';
         return;
       }
-      document.getElementById('errorMessage').innerText = ''; // Изчистване на предишни грешки
+      if (isDataLoaded) return; // Спира повторно зареждане, ако данните са заредени
+      document.getElementById('errorMessage').innerText = '';
       fetch(JSON_URL)
         .then(response => {
           if (!response.ok) throw new Error('Мрежова грешка: ' + response.status);
@@ -473,6 +474,7 @@
           matches = data.matches || matches;
           results = data.results || results;
           prizes = data.prizes || prizes;
+          isDataLoaded = true;
           saveData();
           renderStandings();
           renderSchedule();
@@ -481,7 +483,12 @@
         })
         .catch(error => {
           console.error('Грешка при импортиране от URL: ' + error.message);
-          document.getElementById('errorMessage').innerText = 'Грешка при зареждане на JSON: ' + error.message;
+          if (error.message.includes('404')) {
+            document.getElementById('errorMessage').innerText = 'Предупреждение: Неуспешно обновяване на JSON (404). Използват се местни данни.';
+          } else {
+            document.getElementById('errorMessage').innerText = 'Грешка при зареждане на JSON: ' + error.message;
+          }
+          loadDataFromStorage();
         });
     }
 
@@ -502,6 +509,19 @@
       localStorage.setItem('ligata_na_komunata', JSON.stringify(data));
     }
 
+    function loadDataFromStorage() {
+      const data = JSON.parse(localStorage.getItem('ligata_na_komunata'));
+      if (data) {
+        teams = data.teams || teams;
+        matches = data.matches || matches;
+        results = data.results || results;
+        prizes = data.prizes || prizes;
+        renderStandings();
+        renderSchedule();
+        loadPrizes();
+      }
+    }
+
     function loadPrizes() {
       const prizeElements = {
         '1': document.getElementById('prize-1'),
@@ -517,22 +537,11 @@
 
     function loadData() {
       console.log('Зареждане на данни от localStorage...');
-      const data = JSON.parse(localStorage.getItem('ligata_na_komunata'));
-      if (data) {
-        teams = data.teams || teams;
-        matches = data.matches || matches;
-        results = data.results || results;
-        prizes = data.prizes || prizes;
-      }
-      renderStandings();
-      renderSchedule();
-      loadPrizes();
-      // Първоначално импортиране от URL
+      loadDataFromStorage();
       importFromUrl();
-      // Автоматично опресняване на всеки 60 секунди
       setInterval(() => {
         importFromUrl();
-      }, 60000);
+      }, 300000); // Обновяване на всеки 5 минути
     }
 
     window.onload = () => {
